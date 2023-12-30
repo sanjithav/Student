@@ -1,9 +1,3 @@
-# File: Student.py
-# Student: Sanjitha Venkata
-# UT EID: sv28325
-# Course Name: CS303E
-# 
-# Date: 10/8/2023
 # Description of Program: Creates Student objects that contain name and grades for exam 1 and 2. Has functions to get (name and exam scores) and set (only exam scores) as well as calculate the average.
 
 class Student:
